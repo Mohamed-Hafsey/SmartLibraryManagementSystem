@@ -88,4 +88,4 @@ The system achieved a 100% success rate across all functional modules.
 
 1. Clone or download this repository:  
    ```bash
-   git clone https://github.com/<yourusername>/SmartLibraryManagementSystem.git
+   git clone https://github.com/Hafsey/SmartLibraryManagementSystem.git
