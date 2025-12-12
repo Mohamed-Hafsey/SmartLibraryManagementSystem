@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/command/ReserveCommand.java</file>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/state/BorrowedState.java</file>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/command/BorrowCommand.java</file>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/command/Command.java</file>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/system/LibrarySystem.java</file>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/system/AdminMenu.java</file>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/decorator/FeaturedBook.java</file>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/state/AvailableState.java</file>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/system/UserMenu.java</file>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/state/ReservedState.java</file>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/model/Book.java</file>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/state/BookState.java</file>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/model/Guest.java</file>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/model/Student.java</file>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/model/User.java</file>
+            <file>file:/E:/Degree%20Assessments/SmartLibraryManagementSystem/src/com/sliit/library/observer/NotificationManager.java</file>
+        </group>
+    </open-files>
+</project-private>
